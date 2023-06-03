@@ -1,0 +1,14 @@
+.thumbnail-img {
+  width: 150px;
+}
+@media (max-width: 576px) {
+  .thumbnail-img {
+    width: 100px;
+  }
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin: 5px;
+}
